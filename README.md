@@ -1,6 +1,7 @@
 ## Input Range con Cambio de Color Dinámico
 
-(https://github.com/BarbaraLunaO/range-color-changer/blob/main/ranges-colors.png)
+![Ejemplo de input range](https://raw.githubusercontent.com/BarbaraLunaO/range-color-changer/main/ranges-colors.png)
+
 
 Este proyecto es un ejemplo de cómo crear un input range en HTML que cambia de color en tiempo real según el valor 
 seleccionado. Utiliza CSS para estilizar el rango y JavaScript para controlar el cambio de color dinámico. Además, 
