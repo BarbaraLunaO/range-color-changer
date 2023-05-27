@@ -11,7 +11,7 @@ Flask se utiliza como servidor web para visualizar el resultado en el navegador.
 ## Requisitos
 - Crear tu entorno virtual y descargar Flask
 
-##Instrucciones de uso
+## Instrucciones de uso
 Elegir los cuatro colores de estado para el range o usar los actuales (amarillo-naranja-rojo-marron)
 ```javascript
 if (value >= 0 && value <= 2) {
@@ -30,10 +30,10 @@ cambiar el valor multiplicativo para calcular el gradiente en el css
 background-image:linear-gradient(to right, var(--color)  calc(var(--value)*10%), white 0);
 ```
 
-##Contribuciones
+## Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes una mejora, no dudes en abrir un problema o enviar una solicitud de extracción.
 
-##Licencia
+## Licencia
 Este proyecto está bajo la Licencia MIT.
 
 
